@@ -1,0 +1,7 @@
+[theme]
+base = "dark"
+primaryColor = "#00FF94"  # Neon Green/Cyan for buttons
+backgroundColor = "#0E1117" # Deep dark blue-grey
+secondaryBackgroundColor = "#262730" # Slightly lighter grey for sidebar
+textColor = "#FAFAFA"
+font = "monospace" # Fits the "Coding/Prompting" vibe
